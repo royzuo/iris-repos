@@ -1,0 +1,10 @@
+{
+  "title": "加尔桥：重力的艺术",
+  "theme": "modern-minimalist",
+  "cards": [
+    {"type": "title", "text": "加尔桥：水自己会走路"},
+    {"type": "content", "text": "两千年前的罗马供水工程"},
+    {"type": "content", "text": "三层拱券与无砂浆堆砌技术"},
+    {"type": "content", "text": "极简坡度的重力哲学"}
+  ]
+}
