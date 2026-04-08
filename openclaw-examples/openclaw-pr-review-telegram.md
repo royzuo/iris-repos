@@ -40,7 +40,7 @@ graph TD
 | :--- | :--- | :--- |
 | **Skills (技能)** | github, telegram-notify | 调用 GitHub API 获取 PR diff 数据，随后使用 Telegram 技能推送结构化消息。 |
 | **Plugins / APIs** | GitHub Webhooks / Polling | 捕获仓库中的 `pull_request` 打开或更新事件。 |
-| **Cron / Heartbeats** | 实时触发 (Event-Driven) | 或基于心跳轮询 GitHub PR 列表，实现异步处理。 |
+| **Cron / Heartbeats** | 实时触发 (Event-Driven) / 心跳轮询 | 很多自动化应用（如本项目）依赖 Cron/Heartbeat 在后台定期拉取 GitHub PR 列表或执行定时动作，保证系统在无人工输入的情况下异步流转。 |
 | **Hooks / Prompts** | 统一的审查 Prompt 模板 | 强制按 Correctness、Security、Maintainability 和 Testability 输出标准化反馈。 |
 
 ### 2.3 关键逻辑与算法
