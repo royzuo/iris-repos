@@ -20,7 +20,7 @@
 flowchart LR
     User([独立开发者]) <-->|Telegram| Leader(Milo: 主理人/协调者)
     
-    subgraph OpenClaw 本地工作区 (Shared Workspace)
+    subgraph Workspace ["OpenClaw 本地工作区 (Shared Workspace)"]
         Memory[(全局共享记忆 / 项目上下文)]
     end
     

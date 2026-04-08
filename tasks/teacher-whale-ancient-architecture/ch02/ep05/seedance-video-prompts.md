@@ -1,10 +1,13 @@
 # Seedance Video Prompts
 
-## Prompt 1: 远景 - 峡谷与宏伟桥体 (5s)
-`A wide-angle cinematic shot of the Pont du Gard bridge stretching across a lush green river valley in southern France. The warm golden hour light illuminates the ancient limestone arches, emphasizing the massive scale and historical grandeur of the structure.`
+## Prompt 1：加尔桥全景建立镜头（10s）
+A museum-grade educational cinematic shot of the Pont du Gard spanning a lush river valley in southern France, with clear limestone texture, layered arches, and a calm atmosphere. Wide establishing shot, realistic documentary lighting, high-detail architecture, no modern distractions, emphasis on scale and elevation relationship.
 
-## Prompt 2: 中景 - 水槽细节 (10s)
-`A detailed medium shot tracking the top level of the Pont du Gard. The focus is on the integrated water channel (aqueduct) running along the top tier, with sunlight filtering through the stone arches, suggesting the ancient engineering logic of gravity-fed water transport.`
+## Prompt 2：三层结构剖面示意（10s）
+A clean technical cross-section visualization of the Pont du Gard's three-tier arch structure, white background, professional museum infographic style, clearly labeled functional layers: bottom support layer, middle circulation/maintenance layer, top aqueduct channel. Simple color palette, precise geometry, educational clarity.
 
-## Prompt 3: 特写 - 结构吻合与光影 (5s)
-`Close-up of the precisely cut limestone blocks without mortar, showing the intricate, interlocking joints. The texture of the weathered rock is highlighted by side-lighting, showcasing the structural stability achieved by gravity and perfect fit.`
+## Prompt 3：重力输水逻辑图（10s）
+A schematic educational diagram showing Roman gravity-fed water flow across a 50-kilometer aqueduct with an extremely shallow slope of 1/3000. White background, minimal palette, arrow-based flow logic, elevation drop from source to destination, museum exhibit style, highly legible and professional.
+
+## Prompt 4：石块咬合与无砂浆结构特写（5s）
+Macro close-up of precisely cut limestone blocks interlocking without visible mortar, side lighting, tactile stone texture, documentary realism, educational focus on structural compression and gravity stability, museum-quality explanatory visual.

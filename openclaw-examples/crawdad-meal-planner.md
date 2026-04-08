@@ -27,7 +27,7 @@ graph TD
     B -->|消息推送| E[WhatsApp / Telegram]
     E -->|通知用户| F(家庭成员)
     
-    subgraph Notion 数据库结构
+    subgraph NotionDB ["Notion 数据库结构"]
     D1(365天全年膳食规划表)
     D2(按商店和过道分类的购物清单)
     D3(按厨师分类的家庭菜谱库)
